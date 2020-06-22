@@ -16,7 +16,6 @@
 
     <modules>
         <module>workbenchfx-core</module>
-        <module>workbenchfx-demo</module>
     </modules>
 
 </project>
