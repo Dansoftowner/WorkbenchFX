@@ -61,7 +61,7 @@ import org.slf4j.LoggerFactory;
  * @author François Martin
  * @author Marco Sanfratello
  */
-public final class Workbench extends Control {
+public class Workbench extends Control {
 
   private static final Logger LOGGER =
       LoggerFactory.getLogger(Workbench.class.getName());
