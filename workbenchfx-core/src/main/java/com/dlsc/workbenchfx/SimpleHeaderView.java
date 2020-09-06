@@ -4,9 +4,8 @@ import com.dlsc.workbenchfx.model.WorkbenchModule;
 import com.dlsc.workbenchfx.view.controls.ToolbarItem;
 import de.jensd.fx.glyphs.fontawesome.FontAwesomeIcon;
 import javafx.scene.Node;
-import javafx.scene.layout.Region;
 
-public class SimpleHeaderView<T extends Region> extends Workbench {
+public class SimpleHeaderView<T extends Node> extends Workbench {
 
     private static class ModuleImpl extends WorkbenchModule {
 
